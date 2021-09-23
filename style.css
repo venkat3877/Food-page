@@ -1,0 +1,101 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+#first{
+    background-color: black;
+    height:75px;
+}
+#third{
+    background-color: black;
+    height:150px;
+    color: cornsilk;
+    margin-top: 20px;
+}
+#name{
+    color:cornsilk;
+    text-align: center;
+    line-height:  75px;
+    width :40%;
+    float:left;
+}
+#menu{
+    
+    width:60%;
+    float: right;
+    text-align: center;
+
+}
+a{
+    text-decoration:none;
+    color:cornsilk;
+    line-height: 75px;
+    margin-right: 20px;
+}
+body{
+    background: linear-gradient(45deg,limegreen,coral,limegreen);
+
+}
+#title{
+    text-align: center;
+    margin-top: 50px;
+}
+#pizza{
+    background: linear-gradient(45deg,darkred,black);
+    color:cornsilk;
+    padding: 10px;
+    text-align: center;
+    border-radius: 50%;
+    width: 30%;
+    margin:10px auto;
+}
+p{
+    text-align: center;
+}
+img{
+    border-radius: 20px;
+    box-shadow : 0 0 10px black;
+
+}
+td{
+    text-align: center;
+}
+table {
+    margin:20px 0px;
+    width: 100%;
+}
+#burger{
+    background: linear-gradient(45deg,darkred,black);
+    color:cornsilk;
+    padding: 10px;
+    text-align: center;
+    border-radius: 50%;
+    width: 30%;
+    margin:10px auto;
+
+}
+#FF{
+    background: linear-gradient(45deg,darkred,black);
+    color:cornsilk;
+    padding: 10px;
+    text-align: center;
+    border-radius: 50%;
+    width: 30%;
+    margin:10px auto;
+
+}
+#SF{
+    background: linear-gradient(45deg,darkred,black);
+    color:cornsilk;
+    padding: 10px;
+    text-align: center;
+    border-radius: 50%;
+    width: 30%;
+    margin:10px auto;
+
+}
+#icons{
+    text-align: center;
+    margin-bottom: -10px;
+}
